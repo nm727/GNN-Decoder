@@ -34,6 +34,8 @@
 ## Files of Interest
 - Training/eval + plotting: [surface_code_decoder_d3.py](surface_code_decoder_d3.py)
 - Generated plot: training_curves.png (created after running the script)
+  <img width="1800" height="600" alt="training_curves" src="https://github.com/user-attachments/assets/f95317ae-e67b-4929-859b-caf7abcbb1b9" />
+
 
 ## Next Steps
 - Try richer graph topology (2D layout of stabilizers) to exploit geometry.
