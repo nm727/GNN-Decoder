@@ -1,5 +1,5 @@
 """
-Surface Code GNN Decoder for Distance 3 
+Surface Code GNN Decoder for Distance 3 Surface Codes
 
 """
 
