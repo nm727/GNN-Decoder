@@ -1,0 +1,10 @@
+torch
+torch-geometric
+numpy
+tqdm
+matplotlib
+panqec
+ldpc
+stim
+pymatching
+scikit-learn
