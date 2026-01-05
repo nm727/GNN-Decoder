@@ -1,4 +1,8 @@
-# Distance-3 Surface Code GNN Decoder — Training Report
+# Distance-3 Surface Code GNN Decoder 
+
+- How to run:<br>
+  Install dependencies: pip install -r requirements.txt<br>
+  Run the decoder: python surface_code_decoder_d3.py
 
 - Dataset: Rotated planar code, distance 3 (9 data qubits, 8 syndromes).
 - Error model: i.i.d. bit flips with probability $p = 0.05$.
